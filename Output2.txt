@@ -1,0 +1,65 @@
+Step:5
+oooooooo--
+o-xo-o-oox
+o---x-o---
+----x-o---
+--x---x---
+-xoo----x-
+oooo-ox---
+ooooo--oo-
+ooo---o---
+ooo-oo----
+
+Step:10
+oxoox-----
+oooo--o---
+o-x-o--o--
+-o----o-o-
+-x-o------
+o---x--o--
+ox--------
+x--xx-oo-o
+o-x----o--
+oxoo--o--o
+
+Step:15
+x-o--o----
+----ooo---
+-x-o-o-oo-
+--ooo-o---
+--ooo---o-
+-x-oooo---
+--x-o-oooo
+--xoo--o--
+---o-xoo--
+----o-----
+
+Step:20
+--ooo-oooo
+-oo--oo--o
+--xooooo--
+--xoxooo--
+oo-xoo-o-o
+x-o--xoooo
+-oooo-ooo-
+o-oooo-xoo
+---o----oo
+-ooo----o-
+
+Command Line./a.out 10 10 50 25 0 5
+Number of Step Simulated: 25
+Total DoodleBugs:         29
+Ending DoodleBugs:        14
+Total Ants:               194
+Ending Ants:              48
+Last Step:25
+oooooooooo
+-oo-oo----
+oxox-xoooo
+x------x-o
+o-x---xoxo
+o-xo---xoo
+xoo--x--x-
+ooo-o-ooo-
+oooo---x-o
+oo--o-o-oo

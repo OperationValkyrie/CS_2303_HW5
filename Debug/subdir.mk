@@ -1,0 +1,43 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+../Ant.cpp \
+../Doodlebug.cpp \
+../Grid.cpp \
+../Organism.cpp \
+../Sim.cpp 
+
+O_SRCS += \
+../Ant.o \
+../Doodlebug.o \
+../Grid.o \
+../Organism.o \
+../Sim.o 
+
+OBJS += \
+./Ant.o \
+./Doodlebug.o \
+./Grid.o \
+./Organism.o \
+./Sim.o 
+
+CPP_DEPS += \
+./Ant.d \
+./Doodlebug.d \
+./Grid.d \
+./Organism.d \
+./Sim.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+%.o: ../%.cpp
+	@echo 'Building file: $<'
+	@echo 'Invoking: GCC C++ Compiler'
+	g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -o "$@" "$<"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

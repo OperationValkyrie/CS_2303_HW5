@@ -1,0 +1,87 @@
+Command Line./a.out 80 50 1000 1000
+Number of Step Simulated: 1000
+Total DoodleBugs:         37690
+Ending DoodleBugs:        467
+Total Ants:               313237
+Ending Ants:              2735
+Last Step:1000
+oooooox---------x-xxxooxoooooooooooo-o--ooooooooooooooooooooooooooooo-ooo-o-o-o-
+oooxx-o-------x--o--xo-xooooooooxoo-o-o-oooooooooooxooooooooooo-oooooooooooo-o-o
+ooooo-oo-----x--o--xx--xoooooooooooo--oooooooooxoooooooooooooooooooooooooo-ooooo
+ooxoxxxo------x---------xoooooooooo-oo-ooooooooooooooooooooooxooxooooooo-oooooo-
+ooxox---------------oxx--xoooooooo-o-ooooooooooooooooooooooooooooooooooo-ooooooo
+xox-ox-o--------------xx-oxoooooo-ooooooooooooooooooooooooxoooooooooooooooo--ooo
+x-ooooo---------x-----x----oxoooo-xoooooooooooooooooooooooooooo-xoox-o-o-oo-o---
+--o--oo---------oo----x----xoooooooooooooooooooxoooooooo-ooooxoooooooxooxoo-xo--
+----ooo-o-o-------o-----x----ooooooooooooooooooooooooooo-ooxooo--xoooooxxxo---o-
+xx-oo------------o-o--o-x--xx-xooooooooooooooooooooooxoo--xoooooooooox--oo-o-o--
+oxxoo--oo------o--o------x-ooooooooooooooooooooo-xoo-xox-o-oo-xo-xoo-ox----o----
+ooxoo-oo---------------x-----oooooooooooooooooooo-x-o--o-xo-xoo--ooox--------o--
+ooxoxoooo--------------x-xxoox-xxoooooooooooo-x---oo-ox-x--oxx-xxoooo-o-o-------
+ooooxoo--------------------x-xo-oooooooooooooo--o--x-o-----------xoooo----o---x-
+ooooooo-----o------o----------ooooooooooooooo-oo-o--x-x----xx-x-ooo--x----o---oo
+ooooooooo--------------x------oooooooooooxxoxoox--x----xx-------xoo----------o--
+ooooooooo-o--o---------------oxxooooooooooo-oo-o-----x-------x--xxo-------o--oo-
+ooooooooo-o-o--------o------o--oooooooooooooo-o-x-x--x--------x--x--o-----o-o-x-
+ooooooo-oooo-o------------x--xoooooooooooooooo-------------------------ooo-----o
+oooooooo--o----------------o---xxooooooooooo--x---o---------------x---------ooo-
+ooooooooooo--------------------xoooooooo-oooo-------oxo--x------------------oo-o
+oooooooo-o--x-o-----------------xooooooooo-oo----oo-oo-xo-------------------xoo-
+oooooo-o-o---x----o--------x----o-xoooooooo-oo-o-o--o-o------------------xx--ox-
+ooooooo--o-x-xxx----------o---x----xooo-oooo-ooo---oooo-x-------------------x-o-
+oooooooxoo--------o-------oxx-------xo-oooo-o-o---o-o----------------------x-xox
+ooooooox--x----x------o-ooo----o--oo-ooooo-o---o-----o---------------------o-x-x
+oooooo-oo---x--o------o-ooo-oooox-ooxoooo-o--o---o----o------o-----------o--xoo-
+ooooooo--o-o------------o-oooooo-ooooooooo----oo------o-o---o-----x-------o-x-xo
+oooooo--o--o--o---------oooooooo-xooooooo-oo-o--o---oo------x---------ox---x-ooo
+oooo-o----o----------o-----xx--xoooooooo-o--o--o-o--oooxxo--x---oo----ooooo-xxo-
+oo-oox--------------x--o--o-----ooooo-oooo-----oo-o-o-oooo-ooooo----o----oxo-o--
+ooo-o--------------x-oo--o--oo-xoooo-o-o--o-o-o--oo-ooooo-oo--oo-o---xx---ox--o-
+o-x--o--------------o-----x--oxoooooo-o----o-o---o---oooooo---xooo----o----x--x-
+oo-x---x-----------o-x--oo-oxoooooox-ooo-o----o-o----ooooo-oo------o------x-----
+oo------o--------x--x---o-ooxoooooo-oo---o-x---------oooooo----o-----o--o---x-xx
+o--o---o-o--xx--------oooo-ooooooooxoooo----x---------o-ooo--xo--o---o---x--x---
+oo----o-o---x-----xxxxoo-ooooooooo-xo-oo---o---------o--o--oo--o-o-----------x--
+o-o---o-oo-x----x--x-oo-oooooooooo-----oo------------oo--ooo---o-------x-----xx-
+ooo-o--o-------x-------xoooooooo-o--xoo-o-o----------o----oooo----------x----x--
+oo-o--o-x---x--x------ooo-oo-xx-o-o---------------------o------------------xx-xx
+o----x--------o--xxxx-ooooxoo--ooooo-----oo----oo-------------------x-x--x--o---
+--ooo--x--x-o--x---x-xxooooo-o-oo----o-o---o--o---o---------------x-------oo-xoo
+ox-o--x-----------x--xooo-ooo-oooo-----o--oo---------------o------x-----x-oooo-o
+-o-------x----x--o-xoooo-o-oooo--x----xoooo--o-oo-oo-----o------------xxx-oooxoo
+--x--------x-o---xx-xoooo-o-o-o---------o-o-ooooo--------o---------x-----xooooox
+------x-------x----oo-xoox-o-ooo-o----oo-o-ooo-o--oo--o------------------xxooooo
+-oxx------xo----oooo-xo-oooooo-----o----oo-o----o--o-------o----o----------xoooo
+-ox-----xx-o----xoooooo-xoo-o-o--o-o---o-o---oo-o-oo-oo---------o-------oooooooo
+xooxooxxooxoo--xooooo-oooooo-o-------ooo-o--ooo---o-o-----------------x---xooooo
+oooooxooooooxo-xxooooxoo-ooooo---o---o-oooooooo-----o--------x-------o-x-o-oxo--
+ooooooooooooxo--x-xoooooo-o---o---o-ooooooo-oo--o--o---------x-----o------xo-xoo
+ooooooooooooo-x--ooooooo-o-ooo----o-ooooooooo----------o-ooo-------------o-oxooo
+oooooooooooo----oooooo--ooooo-o-ooooooooxxoo-x-o-----oo-o-o------x-----o---ooooo
+ooooooooooxooooooxoooo-ooooo----oo-ooooo-oxoox--o---oo-oo--------x-o------oxoooo
+ooooooooooxoo-ooooooo-ooooo-o-o----oo-ooooooo---o-o-x---o--x--------------ooooo-
+oooooooooooooo-oooooo--ooo------ooo--oo-o-oo-xooxx-----oo--------o-o-xo-xxooooo-
+oooooooooooooooxxoxooo------o---o---oooooooooxxoox----x-o--------o--x--x-oxooo-o
+ooooooooooooooooxooo-o-ooo-o-o-o--oooooooox-ooooooo----------o------x---ooooooo-
+ooooooooooooooooooooo-o-------o-----o-oooooooooooo--------------x-o-oo-oox-xoooo
+ooooooooooooooooooo-xo-o-----o-----oo-o-ooooooooo-x---x----------xx-x-o-oxoxoooo
+oooooooooooooooooo-o----------------o-ooo-xoooooxo----x--x-----o-ooox-x-xoooooo-
+oooooooooooooxoooo-o---o-o------------o--ooooooooo--o---------x-xooxooooo-o---x-
+oooooooooooooxooo-o-----oo--------------oxooooooo-o---x---x-xxxxoooooxoo-o-xox-o
+oooooooooooxoooooo-o----oooooo---------ooooooooo-ox---x-----oooooooooooo--oo-oxx
+ooooooooooooooxox-o----oooo------------oooooooo-oooox-x----xooooooooxxooooooooo-
+ooooooooooooooo--o-oo-ooo-------------ooo-ooooo-o-oo-o----oxoooxooooooooo-ooo-o-
+ooooooooooooooox-o----oo--o--o---------o-oo-ooo-oo-oo-oo-xooo--xooooooooooxoo-ox
+ooooooooooxoooo-x-o-o-xoooooo---o------o-oooooo--o-oo---x-ooooooooooooooooxo----
+oooooooo-x-oxo-o-o---ooo--oo--o---o----o-oo-oo-oo--o--o---ooooooooooooooooo--o-x
+oxoooooxo-ooxxx--x--o-------x-o-o-o----o---xo--o-o-oooo-o-oooo-oooooooooooo-o-o-
+--xoo-xo---x-x---x-oo-ooox-x-o-o-oo--o--------o------o-o-o-ooooooooooooooo-x--o-
+---oxoo----x-----x-----x-x----x-o------------o---------o----ooooo-oooooo--o-o-xx
+--ox-xo---x--x------oo-oo-----o--x--o--------------------------o--oooooooo-xo---
+----oxo--ooox-----------oox-oooo-o-------------------------o--o--oooo-o-o---oo--
+------o-x-----x--ooo-oox-ooooooox--------o-ooo-o--o--------o-----oo-oo-o-x-o----
+---xo-o-ooo------o--oo-ooooooo-o-o-------o--ooo--o----------------o-ooo-oxo--o--
+-o---o-oo-oo-o-xxo-oooooxoo-oooo----------ooo-oo--o------------------o----------
+o-----ooo------o--ooooooooooooo-o------o--ooo-o--oo-----------------------------
+-----o-o-oo-o--o--oooooooooo-o--oo---ooo-ooo-o-o--------------------------------
+----o---ooox--x-oo-oooooooo-oo-o------oo------------oo--------------------------
